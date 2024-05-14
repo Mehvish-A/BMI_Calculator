@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;}
+    
+    .box{
+        margin-top: 50px;
+        width: auto;
+        border: solid 2
+        
+    }
+    .box1{
+        width: 70px;
+        height: 60px;
+       
+    }
+    .btn{
+        
+    background-color: #1E3268;
+    color: white; 
+    height: 50px;
+    outline: lightblue;
+
+}
+.txt{
+    color: #1E3268;
+   
