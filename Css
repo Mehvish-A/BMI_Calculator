@@ -1,26 +1,20 @@
-body{
-    display: flex;
-    justify-content: center;}
-    
-    .box{
-        margin-top: 50px;
-        width: auto;
-        border: solid 2
-        
-    }
-    .box1{
-        width: 70px;
-        height: 60px;
-       
-    }
-    .btn{
-        
-    background-color: #1E3268;
-    color: white; 
-    height: 50px;
-    outline: lightblue;
-
-}
-.txt{
-    color: #1E3268;
-   
+.underweight{
+    background-color: orange;
+    margin-top:12px ;
+    color: #ffffff;
+  }
+  .normal{
+    background-color: green;
+    margin-top:12px ;
+    color: #ffffff;
+  }
+  .overweight{
+    background-color: brown;
+    margin-top:12px ;
+    color: #ffffff;
+  }
+  .obese{
+    background-color: red;
+    margin-top:12px ;
+    color: #ffffff;
+  }
